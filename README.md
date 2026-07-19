@@ -1,15 +1,174 @@
-# 💫 About Me:
-🔭 Currently working on: Building scalable full-stack applications and open-source projects with a strong focus on backend engineering, databases, and software architecture.<br>👯 Looking to collaborate on: Open-source software, backend systems, developer tools, and impactful real-world applications.<br>🤝 Looking for help with: System design, cloud infrastructure, distributed systems, and writing production-quality code.<br>🌱 Currently learning: Software architecture, database internals, cloud platforms, DevOps, and machine learning.<br>💬 Ask me about: SQL, backend development, Python, JavaScript, databases, Git, software engineering, or cricket.<br>⚡ Fun fact: I enjoy building portfolio projects that look and feel like real production software rather than tutorial clones.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:7c3aed,100:22c55e&height=220&section=header&text=Muhammad%20Hassaan%20Zeb&fontSize=48&fontColor=e5e7eb&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20IT%20Developer%20%7C%20Educator&descSize=18&descAlignY=55&descColor=a78bfa" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/htb_blogs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Hassaan Zeb) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@htb_blogs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.hassaan.36in6@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%40+Chorate+AI+(QSTP);Shipping+production-grade+web+%26+mobile+apps;React+%E2%80%A2+Python+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;3%2B+years+teaching+%26+mentoring+in+tech;Turning+Qatar's+AI+vision+into+working+software" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat&logo=perl&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=flat&logo=Handlebars.js&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=flat&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=flat&logo=sidequest&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Muhammad-Hassaan-Zeb&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Muhammad-Hassaan-Zeb&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Hassaan-Zeb&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20%2F%20Software%20Engineering-22c55e?style=for-the-badge&labelColor=0f1117&logo=briefcase&logoColor=22c55e" alt="Open to Work"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Hassaan-Zeb&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Muhammad-Hassaan-Zeb?style=for-the-badge&color=22c55e&labelColor=0f1117&logo=github&label=FOLLOWERS" alt="Followers"/>
+
+</div>
+
+<br/>
+
+## 🧠 Who I Am
+
+```typescript
+const hassaan = {
+  title: ["AI Engineer @ Chorate AI (QSTP)", "IT Developer", "Technical Educator"],
+  location: "Doha, Qatar 🇶🇦",
+  education: "BSc Information Systems (Honours) — UDST, cGPA 3.56",
+
+  stack: {
+    languages: ["Python", "TypeScript", "JavaScript", "SQL"],
+    frontend: ["React", "React Native", "Next.js", "Tailwind CSS", "HTML/CSS"],
+    backendData: ["Node.js", "MongoDB", "MySQL", "Pandas"],
+    aiEngineering: ["RAG Pipelines", "LLM Integration", "Claude API", "Dify"],
+    devOps: ["Docker", "Kubernetes", "GitHub Actions", "Git"],
+    analytics: ["Power BI (DAX)", "Excel + Power Query", "Matplotlib", "Seaborn"],
+  },
+
+  launchedProjects: [
+    "ACTIV8 — AI-powered gym management platform (React Native + MongoDB)",
+    "Chorate AI website — high-conversion client acquisition platform",
+    "Client sites & dashboards shipped for real businesses in Doha",
+  ],
+
+  experience: {
+    current: "AI Engineering Intern — Chorate AI, Qatar Science & Technology Park",
+    teaching: "≈3 years Faculty-Appointed Teaching Assistant — UDST CCIT Help Centre",
+    tutoring: "5+ years independent technical tutoring, sustained by referrals",
+  },
+
+  languagesSpoken: ["English (C1+)", "Urdu (native)", "Arabic (conversational)"],
+  status: "Open to full-time roles — AI/ML, Software Engineering, Government IT",
+  openTo: ["AI Engineering", "Full-Stack Development", "Data & BI", "EdTech"],
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🎨 Portfolio
+
+<a href="https://github.com/Muhammad-Hassaan-Zeb/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassaan-Zeb&repo=Portfolio&bg_color=0f1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22c55e&border_color=2d333b" alt="Portfolio Repo"/>
+</a>
+
+My personal portfolio — a hand-built, production-quality showcase of my work, design sense, and engineering.
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Design | Custom design system, mobile-first, dark aesthetic |
+| Deployment | GitHub |
+
+🔗 [**Code**](https://github.com/Muhammad-Hassaan-Zeb/Portfolio)
+
+---
+
+### ⚙️ Chorate-AI-Engine
+
+<a href="https://github.com/Muhammad-Hassaan-Zeb/Chorate-AI-Engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassaan-Zeb&repo=Chorate-AI-Engine&show_owner=false&bg_color=0f1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22c55e&border_color=2d333b" alt="Chorate AI Engine Repo"/>
+</a>
+
+Production-ready platform for agentic workflow development — the engine behind my AI engineering work at Chorate AI (QSTP), where I build RAG pipelines and LLM-powered systems.
+
+| Layer | Technology |
+|---|---|
+| Core | TypeScript, Python |
+| AI | RAG pipelines, agentic workflows, LLM orchestration |
+| Infra | Docker, Kubernetes |
+
+🔗 [**Code**](https://github.com/Muhammad-Hassaan-Zeb/Chorate-AI-Engine)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" alt="Backend & Data"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions&theme=dark" alt="DevOps"/>
+
+**AI & Analytics**
+
+<img src="https://img.shields.io/badge/RAG%20Pipelines-7c3aed?style=for-the-badge&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Claude%20API-22c55e?style=for-the-badge&logoColor=0f1117" alt="Claude API"/>
+<img src="https://img.shields.io/badge/Power%20BI%20%2B%20DAX-7c3aed?style=for-the-badge&logoColor=white" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-22c55e?style=for-the-badge&logoColor=0f1117" alt="Data Science"/>
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,linux&theme=dark" alt="Dev Tools"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassaan-Zeb&show_icons=true&bg_color=0f1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22c55e&border_color=2d333b&rank_icon=github" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassaan-Zeb&layout=compact&bg_color=0f1117&title_color=a78bfa&text_color=c9d1d9&border_color=2d333b" height="170" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Muhammad-Hassaan-Zeb&background=0f1117&ring=7c3aed&fire=22c55e&currStreakLabel=a78bfa&currStreakNum=e5e7eb&sideNums=e5e7eb&sideLabels=a78bfa&dates=8b949e&border=2d333b" alt="Streak Stats"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hassaan-Zeb&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hassaan-Zeb&bg_color=0f1117&color=a78bfa&line=7c3aed&point=22c55e&area=true&area_color=7c3aed&hide_border=false&border_color=2d333b" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-hassaan-zeb-636547261/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hassaan%20Zeb-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f1117" alt="LinkedIn"/>
+</a>
+<a href="mailto:m.hassaan.36in6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-m.hassaan.36in6%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=0f1117" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/htb_blogs">
+  <img src="https://img.shields.io/badge/Instagram-%40htb__blogs-7c3aed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f1117" alt="Instagram"/>
+</a>
+<a href="https://github.com/Muhammad-Hassaan-Zeb/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-22c55e?style=for-the-badge&logo=googlechrome&logoColor=22c55e&labelColor=0f1117" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:7c3aed,100:0f1117&height=140&section=footer&animation=twinkling" width="100%"/>
+
+</div>
